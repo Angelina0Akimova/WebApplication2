@@ -13,6 +13,7 @@ namespace WebApplication2.Data.Migrations
 
         }
 
+
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
@@ -20,3 +21,10 @@ namespace WebApplication2.Data.Migrations
         }
     }
 }
+
+
+
+
+
+
+
